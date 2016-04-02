@@ -3,4 +3,5 @@
   $ cmake .
   $ make
 
- 2.use the key 'a'/'d'/'w'/'d' to move . 
+ 2.use the key 'a'/'d'/'w'/'d' to move .
+ 3.wait for more changes.
